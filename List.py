@@ -1,11 +1,11 @@
 """
-PROJECT 1 - Doubly Linked List + Recursion
-Name: Nikit Parakh
+Doubly Linked List + Recursion
+Nikit Parakh
 """
 
 from __future__ import annotations  # allow self-reference
 from typing import TypeVar, Generic, Callable  # function type
-from Project1.Node import DoublyLinkedListNode as Node
+import DoublyLinkedListNode as Node
 
 T = TypeVar("T")
 
