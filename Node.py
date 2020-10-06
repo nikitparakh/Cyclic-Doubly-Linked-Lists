@@ -1,6 +1,3 @@
-
-# DO NOT MODIFY FILE
-
 from __future__ import annotations  # allow self-reference
 from typing import TypeVar, Generic  # function type
 
